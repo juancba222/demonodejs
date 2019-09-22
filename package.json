@@ -1,0 +1,19 @@
+{
+  "name": "demonodejs",
+  "version": "1.0.0",
+  "description": "demonodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancba222/demonodejs.git"
+  },
+  "author": "juan rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancba222/demonodejs/issues"
+  },
+  "homepage": "https://github.com/juancba222/demonodejs#readme"
+}
