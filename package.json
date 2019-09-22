@@ -4,6 +4,7 @@
   "description": "demonodejs",
   "main": "index.js",
   "scripts": {
+    "start": "index.js",
     "test": "jasmine"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juancba222/demonodejs/issues"
   },
-  "homepage": "https://github.com/juancba222/demonodejs#readme"
+  "homepage": "https://github.com/juancba222/demonodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
